@@ -4,18 +4,18 @@
 
 
 
-Door no:-76/1  				         
-Ramalayam street      				                   
-Chintalapudi mandal  
-Errampalli,West Godavari      					              
-ANDHRA PRADESH   
-Pin - 534461   
-<pre>                                                                                                          📲:8555855442  
-                                                                                                               📞:9652640955  
-                                                                                         📧: vineethamallemoggala9@gmail.com
-											 </pre>
+DOOR NO : 76/1  				         
+RAMALAYAM STREET      				                   
+CHINTALAPUDI MANDAL  
+ERRAMPALLI	  
+WEST GODAVARI DISTRICT	  
+ANDHRA PRADESH , 534461   
+```
+                                                                                    📲:8555855442  
+                                                                                    📞:9652640955  
+                                                                                    📧:vineethamallemoggala9@gmail.com
 
-
+```
 
 
 **CAREER OBJECTIVE :**  
@@ -25,8 +25,8 @@ Pin - 534461
 
 |SNo|Name of the Course|Year|Name of the Institute|Name of the Board|Grade|
 |---|------------------|----|-------------------- |-----------------|-----|
-|1. |B.TECH (pursuing) |2017-2021|Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam|Andhra University (AU) Affiliated|9.27 CGPA (untill 3/1)|
-|2. |Intermediate      |2015-2017|Sasi Junior College, Velivennu|Board of Intermediate Education,Andhra Pradesh|9.81%|
+|1. |B.TECH (pursuing) |2017-2021|Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam|Andhra University (AU) Affiliated|9.27 CGPA (untill 5<sup>th</sup> semister)|
+|2. |Intermediate      |2015-2017|Sasi Junior College, Velivennu|Board of Intermediate Education,Andhra Pradesh|98.1%|
 |3.|SSC|2014-2015|Sasi Residential School, Velivennu|Board of Secondary Educatiob, Andhra Pradesh|9.8 CGPA|
 
 
@@ -34,20 +34,20 @@ Pin - 534461
 - Had completed 2 weeks training on “Data structures using C language” in Anil Neerukonda Institute of Technology and Sciences.
 - currently working on app development i.e Training and Placement App through **salesforce platform** in realtime.   
 
-**WORSHOPS / TECHNICAL SYMPOSIA:**   
-- Attended a National Level Workshop on “Python with Machine Learning” at Indian Institute of Technology Madras on 3rd January,2020.   
+**WORKSHOPS / TECHNICAL SYMPOSIA:**   
+- Attended a National Level Workshop on “Python with Machine Learning” at Indian Institute of Technology Madras on 3<sup>rd</sup> January,2020.   
  
 **TECHNICAL SKILLS:**
 - **programing Skills**
   - C Programing Language,JAVA ,PYTHON.
 - **Database**   
-  - MysSQL
+  - SQL
 - **Web Technologies**
   - HTML,CSS,JAVASCRIPT.
 - **Operating Systems**
   - Windows
-  - linux
-- Basic knowledge in Data Structures,Operating Systems,Android Development and Computer Networks,DBMS.   
+  - Linux
+- Basic knowledge in Data Structures and Algorithms,Operating Systems,Android Development and Computer Networks,DBMS.   
 - Had completed salesforce PD1 certification credentials.
 
 **AWARDS / ACHIEVEMENTS**  
