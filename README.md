@@ -20,12 +20,9 @@ Pin - 534461
 **CAREER OBJECTIVE :**  
 	To secure a position where I can efficiently contribute my skills and abilities for the growth of the organization and build my professional career.   
   
-**EDUCATIONAL QUALIFICATION :**  
-|SNo|Name of the Course|Year|Name of the Institute|Name of the Board|Grade|
-|---|------------------|----|-------------------- |-----------------|------|
-|1. |B.TECH (pursuing) |2017-2021|Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam|Andhra University (AU) Affiliated|9.27 CGPA (till 3/1)|
-|2. |Intermediate      |2015-2017|Sasi Junior College, Velivennu|Board of Intermediate Education,Andhra Pradesh|9.81%|
-|3.|SSC|2014-2015|Sasi Residential School, Velivennu|Board of Secondary Educatiob, Andhra Pradesh|9.8 CGPA|  
+|name|no|
+|-----|---|
+|vinni|1|
 
 **INDUSTRIAL TRAINING / INTERNSHIP:**
 - Had completed 2 weeks training on “Data structures using C language” in Anil Neerukonda Institute of Technology and Sciences.
