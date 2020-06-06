@@ -10,12 +10,12 @@ CHINTALAPUDI MANDAL
 ERRAMPALLI	  
 WEST GODAVARI DISTRICT	  
 ANDHRA PRADESH , 534461   
-```
-                                                                                    📲:8555855442  
-                                                                                    📞:9652640955  
-                                                                                    📧:vineethamallemoggala9@gmail.com
+<pre>
+                                                                            📲:8555855442  
+                                                                            📞:9652640955  
+                                                                            📧:vineethamallemoggala9@gmail.com
 
-```
+</pre>
 
 
 **CAREER OBJECTIVE :**  
