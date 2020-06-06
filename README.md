@@ -10,9 +10,10 @@ Chintalapudi mandal
 Errampalli,West Godavari      					              
 ANDHRA PRADESH   
 Pin - 534461   
-📲:8555855442;  
-📞:9652640955  
-📧: vineethamallemoggala9@gmail.com
+<pre>                                                                                                          📲:8555855442  
+                                                                                                               📞:9652640955  
+                                                                                         📧: vineethamallemoggala9@gmail.com
+											 </pre>
 
 
 
